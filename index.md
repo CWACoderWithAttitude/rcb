@@ -1,32 +1,16 @@
-## Welcome to GitHub Pages
+## Repair Cafe Bocholt
 
-You can use the [editor on GitHub](https://github.com/CWACoderWithAttitude/rcb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Vieles ost zu schade zu wegwerfen. Wir unterstützen und helfen bei der Fehlersuche und beim Beheben des Problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Termine
 
-### Markdown
+Wir treffen uns bei Vollmond und tanzen um unser Lagerfeuer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Wer wir sind
+Wir sind ein bunter Haufen - Wir leben um zu reparieren.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Wer Unterstützt uns
+Spende
 
 ### Jekyll Themes
 
