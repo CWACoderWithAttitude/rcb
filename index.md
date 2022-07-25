@@ -10,7 +10,9 @@ Wir treffen uns bei Vollmond und tanzen um unser Lagerfeuer.
 Wir sind ein bunter Haufen - Wir leben um zu reparieren.
 
 ### Wer Unterstützt uns
-Spende
+Wir leben von der Hand in den Mund - und von Spenden
+
+### [Impressum](./impressum.md)
 
 ### Jekyll Themes
 
